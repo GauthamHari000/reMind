@@ -11,7 +11,7 @@ resources:
 variables:
   # Container registry service connection established during pipeline creation
   dockerRegistryServiceConnection: 'd8626239-44f6-4f22-a567-1525dfc16882'
-  imageRepository: 'jremindaiback'
+  imageRepository: 'remind-back'
   containerRegistry: 'containerregistryremindai.azurecr.io'
   dockerfilePath: '$(Build.SourcesDirectory)/backend/Dockerfile'
   tag: '$(Build.BuildId)'
