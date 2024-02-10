@@ -1,5 +1,8 @@
 # reMind.ai
 
+Microsoft Imagine Cup 2024 Qualifier
+Demo Video:  [https://drive.google.com/file/d/1y3BqHG6NisGqMY5_vk6v9wgHm5YMdr20/view?usp=sharing]( https://drive.google.com/file/d/1y3BqHG6NisGqMY5_vk6v9wgHm5YMdr20/view?usp=sharing)
+
 Website Hosted On: https://salmon-sea-0f4b21710.4.azurestaticapps.net/
 
 reMind.ai creates mindmaps from user-inputted .txt, .mp3, .mp4, or .wav files. The original use case for this app is intended for meetings where easy recall of important topics and concepts is necessary. reMind will display a mindmap of the main topic (that encapsulates said meeting) and its respective sub-topics where you can view a "Summary" and "Quotes" of each topic through pop-up interactivity.
